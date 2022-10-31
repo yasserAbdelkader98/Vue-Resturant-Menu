@@ -1,0 +1,23 @@
+.description{
+    overflow-x: scroll;
+}
+
+.more {
+    color: green;
+    font-weight: bold;
+}
+
+.less {
+    color: orange;
+    font-weight: bold;
+}
+
+.none {
+    color: red;
+    font-weight: bold;
+}
+
+
+.bold {
+    font-weight: bold;
+}
